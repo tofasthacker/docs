@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tofasthacker
 - 👀 I’m interested in ethica hacking
-- 🌱 I’m currently learning on hack the box and tryhackme
 
 
 <!---
